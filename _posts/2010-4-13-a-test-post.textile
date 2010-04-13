@@ -1,9 +1,0 @@
----
-layout: post
-title: "A test post"
----
-
-h1. {{ page.title }}
-
-This is a test post, and hopefully more to come until github shuts me down.
-Who knows what'll happen!
