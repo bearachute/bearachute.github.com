@@ -1,0 +1,8 @@
+---
+layout: post
+title: "A Test Post"
+---
+
+h1. {{ page.title }}
+
+This is just a test post, it's pretty much just smooth sailing from here on out. Or until I run out of space here at github.

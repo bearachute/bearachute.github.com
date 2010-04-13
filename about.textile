@@ -1,0 +1,12 @@
+---
+layout: default
+title: About
+---
+<h2 id="intro">About bearachute</h2>
+
+<div class="post">
+	h1. Me
+	
+	Hey just a quick about me page, nothing special.
+	
+</div>
