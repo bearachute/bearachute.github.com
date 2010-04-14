@@ -1,0 +1,10 @@
+---
+layout: post
+title: "A couple changes"
+---
+
+h1. {{ page.title }}
+
+Sorry al3x, I didn't mean to basically rip off your complete github/website there. At any rate I made a couple of css/html changes. Working on getting a little sidebar with recent/older posts.
+
+That's about it.
