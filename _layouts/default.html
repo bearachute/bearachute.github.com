@@ -1,25 +1,30 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
+	<meta content="Bearachute" name="Author">
+	<meta content="text/html; charset=utf-8" http-equiv="content-type">
 	<link href="/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
 	<title>Bearachute - {{ page.title }}</title>
 	</head>
 	<body>
-		<header>
-			<h1 id="title">
-				<a href="/about.html" title="About">Bearachute's stuff <a href="/" title="Home">here</a>
-				</h1>
-				<h2 id="subtitle">
-					Take a look at them <a href="/archive.html" title="Archive">archives!</a>
-					</h2>
-					</header>
-					<div id="wrapper">
+		<div id="wrap">
+			<div id="header"><a href="/">Bearachute's tiny blog page</a></div>
+			<div id="nav" role="navigation">
+				<ul>
+					<li><a href="/">Home</a></li>
+					<li><a href="/about.html" title="About bearachute">About</a></li>
+					<li><a href="/archive.html" title="old writings">Archive</a></li>
+					</ul>
+					</div>
+					<div id="content" class="clearfix">
+						<div id="main" role="main">
 						{{ content }}
-						<footer id="footer">
-							<a href="/" title="Home">You are here</a> &bull;
-							<a href="/about.html" title="About bearachute">About</a> &bull;
-							<a href="/archive.html" title="Old writings">Archive</a> &bull;
-						</footer>
-						</div>
+					</div>
+						<div id="footer" role="contentinfo">
+							<ul>
+								<li id="copyright">
+									Copyright &copy; 2010 <a href="/">Bearachute</a>
+									</ul>
+									</div>
 						</body>
 						</html>
