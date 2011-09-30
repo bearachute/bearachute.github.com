@@ -1,8 +1,8 @@
---
-
+---
 layout: post
-title: it's been a while eh
+title: "So it's been about a year"
+---
 
---
+h2. {{ page.title }}
 
-it's been a bit huh?
+So, in the meantime I've learned a bit of C, C++, C#, and ruby.
