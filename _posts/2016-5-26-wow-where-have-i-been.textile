@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Been a long time girl, I SHOULDNT LEFT YA"
+---
+
+h1. {{ page.title }}
+
+Hey so in the last uh 5 years, I uh moved, moved again, went to Arkansas and my dad died.
+It's been a somber past couple years, but things are looking up....I think!
