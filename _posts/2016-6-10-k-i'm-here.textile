@@ -1,3 +1,10 @@
+---
+layout: post
+title: "A test post"
+---
+
+h1. {{ page.title }}
+
 Nothing really new to report, using git more because i'm learning how to do stuff in c and c++ and i need to do *something* with my life.
 
 Anyways my mom gets reassigned her stomach on Monday.
